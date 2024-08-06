@@ -1,0 +1,16 @@
+{
+    "name": "custom-dz-lodash",
+    "version": "0.0.2",
+    "private": false,
+    "main": "./index.js",
+    "types": "./index.d.ts",
+    "dependencies": {
+      "lodash": "^4.17.21",
+      "@types/lodash": "^4.14.202"
+    },
+    "files": [
+      "index.js",
+      "index.d.ts"
+    ],
+    "scripts": {}
+  }
