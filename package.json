@@ -1,26 +1,28 @@
 {
-    "name": "custom-dz-lodash",
-    "version": "0.0.2",
-    "private": false,
-    "main": "./index.js",
-    "types": "./index.d.ts",
-    "dependencies": {
-      "lodash": "^4.17.21",
-      "@types/lodash": "^4.14.202"
-    },
-    "homepage": "https://github.com/dingzc2450/custom-dz-lodash",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/dingzc2450/custom-dz-lodash.git"
-    },
-    "author": "dingzc2450",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/dingzc2450/custom-dz-lodash/issues"
-    },
-    "files": [
-      "index.js",
-      "index.d.ts"
-    ],
-    "scripts": {}
-  }
+  "name": "custom-dz-lodash",
+  "version": "0.0.2",
+  "private": false,
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "dependencies": {
+    "@types/lodash": "^4.14.202",
+    "@types/lodash-es": "^4.17.12",
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21"
+  },
+  "homepage": "https://github.com/dingzc2450/custom-dz-lodash",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dingzc2450/custom-dz-lodash.git"
+  },
+  "author": "dingzc2450",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dingzc2450/custom-dz-lodash/issues"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {}
+}
