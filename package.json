@@ -36,8 +36,7 @@
     "url": "https://github.com/dingzc2450/custom-dz-lodash/issues"
   },
   "files": [
-    "index.js",
-    "index.d.ts"
+    "dist"
   ],
   "engines": {
     "node": ">=20.16.0"
