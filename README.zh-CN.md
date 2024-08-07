@@ -37,7 +37,7 @@ console.log(result); // 输出: 5
 - `multiply(a, b)`: 将两个数字相乘并返回结果。
 - `divide(a, b)`: 将第一个数字除以第二个数字并返回结果。
 
-请查阅[文档](https://github.com/dz-custom-lodash/docs)以获取完整的功能列表和使用示例。
+请查阅[文档](https://github.com/dingzc2450/custom-dz-lodash/wiki)以获取完整的功能列表和使用示例。
 
 ## 贡献
 

@@ -34,7 +34,7 @@ Custom DZ Lodash provides many practical features and utility functions, includi
 
 - `add(a, b)`: Adds two numbers and returns the result.
 
-Please refer to the [documentation](https://github.com/dz-custom-lodash/docs) for a complete list of features and usage examples.
+Please refer to the [documentation](https://github.com/dingzc2450/custom-dz-lodash/wiki) for a complete list of features and usage examples.
 
 ## Contributing
 

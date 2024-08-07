@@ -1,6 +1,6 @@
 {
   "name": "custom-dz-lodash",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "private": false,
   "main": "./dist/index.js",
   "umd:main": "./dist/index.umd.js",
