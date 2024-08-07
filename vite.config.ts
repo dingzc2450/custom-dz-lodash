@@ -9,7 +9,7 @@ export default defineConfig({
   build: {
     lib: {
       entry: resolve(__dirname, "src/index.ts"),
-      fileName: "lodash",
+      fileName: "index",
       name: "CustomDzLodash",
       formats: ["es", "cjs", "umd"],
     },
@@ -19,6 +19,7 @@ export default defineConfig({
       external,
       output: {
         inlineDynamicImports: true,
+        exports: "named",
       },
       preserveSymlinks: true,
     },

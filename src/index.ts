@@ -1,6 +1,5 @@
-// import _ from 'lodash';
-// export * from 'lodash-es';
-// export default _;
-import _ from 'lodash-es';
-export * from 'lodash-es';
+import _ from "lodash";
+import _defaultFromEs from "lodash-es";
+export { _defaultFromEs };
+export * from "lodash-es";
 export default _;
