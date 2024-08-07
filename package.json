@@ -1,6 +1,6 @@
 {
   "name": "custom-dz-lodash",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "main": "./index.js",
   "types": "./index.d.ts",
